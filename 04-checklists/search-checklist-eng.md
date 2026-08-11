@@ -1,9 +1,10 @@
-- [ ] Search field is displayed
-- [ ] Search field accepts text
-- [ ] Search button is displayed
-- [ ] Search can be initiated
-- [ ] Search with valid product name
-- [ ] Search with partial product name
+- [ x ] Search field is displayed
+- [ x ] Search field accepts text
+- [ x ] Search button is displayed
+- [ x ] Search can be initiated
+- [ x ] Search with valid product name
+- [ x ] Search with partial product name
+- [ - ] Single-letter search
 - [ ] Search with one character
 - [ ] Search with multiple words
 - [ ] Search with numbers
