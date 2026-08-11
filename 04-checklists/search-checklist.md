@@ -1,1 +1,23 @@
-
+- [ ] Search field is displayed
+- [ ] Search field accepts text
+- [ ] Search button is displayed
+- [ ] Search can be initiated
+- [ ] Search with valid product name
+- [ ] Search with partial product name
+- [ ] Search with one character
+- [ ] Search with multiple words
+- [ ] Search with numbers
+- [ ] Search with special characters
+- [ ] Search with empty input
+- [ ] Search with leading spaces
+- [ ] Search with trailing spaces
+- [ ] Search with multiple spaces between words
+- [ ] Search with uppercase letters
+- [ ] Search with lowercase letters
+- [ ] Search with Polish characters
+- [ ] Search with Cyrillic characters
+- [ ] Search with non-existing product
+- [ ] Search results are relevant
+- [ ] Search results contain product name
+- [ ] Search result count is displayed correctly
+- [ ] Search works after clearing input
