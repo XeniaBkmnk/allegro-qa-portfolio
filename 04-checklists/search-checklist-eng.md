@@ -13,7 +13,7 @@
 - [ x ] Search with leading spaces
 - [ x ] Search with trailing spaces
 - [ x ] Search with multiple spaces between words
-- [ ] Search with uppercase letters
+- [ x ] Search with uppercase letters
 - [ ] Search with Polish characters
 - [ ] Search with Cyrillic characters
 - [ ] Search with non-existing product
