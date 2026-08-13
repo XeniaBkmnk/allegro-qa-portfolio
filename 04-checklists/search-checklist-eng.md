@@ -6,7 +6,7 @@
 - [ x ] Search with partial product name
 - [ - ] Single-letter search
 - [ x ] Search with one character
-- [ ] Search with multiple words
+- [ x ] Search with multiple words
 - [ ] Search with numbers
 - [ ] Search with special characters
 - [ ] Search with empty input
