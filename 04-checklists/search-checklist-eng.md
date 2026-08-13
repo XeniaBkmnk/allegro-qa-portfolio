@@ -9,7 +9,7 @@
 - [ x ] Search with multiple words
 - [ x ] Search with numbers
 - [ x ] Search with special characters
-- [ x ] Search with empty input
+- [ - ] Search with empty input
 - [ x ] Search with leading spaces
 - [ x ] Search with trailing spaces
 - [ ] Search with multiple spaces between words
