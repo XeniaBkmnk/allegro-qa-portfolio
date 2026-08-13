@@ -10,7 +10,7 @@
 - [ x ] Search with numbers
 - [ x ] Search with special characters
 - [ x ] Search with empty input
-- [ ] Search with leading spaces
+- [ x ] Search with leading spaces
 - [ ] Search with trailing spaces
 - [ ] Search with multiple spaces between words
 - [ ] Search with uppercase letters
