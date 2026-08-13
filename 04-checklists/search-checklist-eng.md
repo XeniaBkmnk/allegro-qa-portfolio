@@ -14,8 +14,8 @@
 - [ x ] Search with trailing spaces
 - [ x ] Search with multiple spaces between words
 - [ x ] Search with uppercase letters
-- [ ] Search with Polish characters
-- [ ] Search with Cyrillic characters
+- [ x ] Search with Polish characters
+- [ x ] Search with Cyrillic characters
 - [ ] Search with non-existing product
 - [ ] Search results are relevant
 - [ ] Search results contain product name
