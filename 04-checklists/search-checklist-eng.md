@@ -16,8 +16,8 @@
 - [ x ] Search with uppercase letters
 - [ x ] Search with Polish characters
 - [ x ] Search with Cyrillic characters
-- [ ] Search with non-existing product
-- [ ] Search results are relevant
-- [ ] Search results contain product name
+- [ x ] Search with non-existing product
+- [ x- ] Search results are relevant
+- [ x ] Search results contain product name
 - [ ] Search result count is displayed correctly
-- [ ] Search works after clearing input
+- [ x ] Search works after clearing input
