@@ -8,7 +8,7 @@
 - [ x ] Search with one character
 - [ x ] Search with multiple words
 - [ x ] Search with numbers
-- [ ] Search with special characters
+- [ x ] Search with special characters
 - [ ] Search with empty input
 - [ ] Search with leading spaces
 - [ ] Search with trailing spaces
