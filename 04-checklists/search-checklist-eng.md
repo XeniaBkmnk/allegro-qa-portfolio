@@ -5,7 +5,7 @@
 - [ x ] Search with valid product name
 - [ x ] Search with partial product name
 - [ - ] Single-letter search
-- [ ] Search with one character
+- [ x ] Search with one character
 - [ ] Search with multiple words
 - [ ] Search with numbers
 - [ ] Search with special characters
