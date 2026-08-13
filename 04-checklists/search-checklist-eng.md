@@ -7,7 +7,7 @@
 - [ - ] Single-letter search
 - [ x ] Search with one character
 - [ x ] Search with multiple words
-- [ ] Search with numbers
+- [ x ] Search with numbers
 - [ ] Search with special characters
 - [ ] Search with empty input
 - [ ] Search with leading spaces
