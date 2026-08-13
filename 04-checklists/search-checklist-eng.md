@@ -14,7 +14,6 @@
 - [ ] Search with trailing spaces
 - [ ] Search with multiple spaces between words
 - [ ] Search with uppercase letters
-- [ ] Search with lowercase letters
 - [ ] Search with Polish characters
 - [ ] Search with Cyrillic characters
 - [ ] Search with non-existing product
