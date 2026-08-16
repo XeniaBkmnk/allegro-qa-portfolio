@@ -5,7 +5,7 @@
 - [ x ] Search button is displayed
 - [ x ] Placeholder displayed correctly
 - [ x ] Search can be initiated
-- [ x ]Search field is clickable
+- [ x ] Search field is clickable
   
 2. Basic functionality
 - [ x ] Search field accepts text
@@ -29,10 +29,13 @@
 - [ x ] Search with Polish characters
 - [ x ] Search with Cyrillic characters
 - [ x ] Search with mixed languages
-- [ x ] Search with non-existing product
 
- 4.
-- [ x- ] Search results are relevant
+4. Result
+- [ - ] Search results are relevant
 - [ x ] Search results contain product name
 - [ ] Search result count is displayed correctly
 - [ x ] Search works after clearing input
+
+5. Negative
+- [ x ] Search with non-existing product
+- [ x ] Extremely long query
