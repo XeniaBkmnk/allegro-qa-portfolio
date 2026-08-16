@@ -15,7 +15,8 @@
 - [ x ] Search with multiple words
 - [ x ] Search after clearing input
 - [ x ] Search after changing query
-
+  
+3. Input
 - [ - ] Single-letter search
 - [ x ] Search with one character
 - [ x ] Search with numbers
@@ -27,7 +28,10 @@
 - [ x ] Search with uppercase letters
 - [ x ] Search with Polish characters
 - [ x ] Search with Cyrillic characters
+- [ x ] Search with mixed languages
 - [ x ] Search with non-existing product
+
+ 4.
 - [ x- ] Search results are relevant
 - [ x ] Search results contain product name
 - [ ] Search result count is displayed correctly
