@@ -10,7 +10,6 @@
 2. Basic functionality
 - [ x ] Search field accepts text
 - [ x ] Search existing product
-- [ x ] Single-letter search
 - [ x ] Search with partial product name
 - [ x ] Search with multiple words
 - [ x ] Search after clearing input
