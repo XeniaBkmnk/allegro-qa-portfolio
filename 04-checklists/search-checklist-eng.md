@@ -24,7 +24,6 @@
 - [ x ] Search with leading spaces
 - [ x ] Search with trailing spaces
 - [ x ] Search with multiple spaces between words
-- [ x ] Search with uppercase letters
 - [ x ] Search with Polish characters
 - [ x ] Search with Cyrillic characters
 - [ x ] Search with mixed languages
